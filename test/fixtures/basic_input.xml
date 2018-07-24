@@ -1,0 +1,9 @@
+<payment>
+
+    <amount>10.00</amount>
+
+    <from>Joe Smith</from>
+
+    <to>Company</to>
+
+</payment>

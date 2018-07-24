@@ -1,0 +1,7 @@
+{
+	"payment": {
+	    "amount": "10.00",
+	    "from": "Joe Smith",
+	    "to": "Company"
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "shipment": {
+        "item": "some item",
+        "from": "Evan",
+        "to": "PayStand",
+        "address": {
+            "street": "100 Enterprise Way",
+            "city": "Scotts Valley",
+            "zip": "95066"
+        }
+    }
+}
+
